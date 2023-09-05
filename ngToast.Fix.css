@@ -1,0 +1,24 @@
+.ng-toast.ng-toast--right .ng-toast__list {
+    width: 100% !Important;
+    margin: 0px !Important;
+}
+
+.ng-toast.ng-toast--right .ng-toast__message {
+    width: 100% !Important;
+    text-align: left !Important;
+}
+
+
+.ng-toast .ng-toast__message .alert {
+    width: 100%;
+}
+
+
+.ng-toast {
+    margin: 0px;
+}
+
+.ng-toast__message {
+    height: 53px;
+}
+
